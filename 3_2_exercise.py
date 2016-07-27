@@ -12,3 +12,7 @@ if hours <= 40:
 else:
 	pay = rate*40 + (rate * 1.5 * (hours-40))
 print pay
+
+def sleep():
+    time = 2035
+    print(time)
